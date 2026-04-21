@@ -28,9 +28,14 @@ jobs:
           str="$(cat news_section.md)" README.md > README.new && mv README.new
           README.md
       - name: Commit changes
-        run: |
+        run: >
           git config --global user.name "github-actions"
+
           git config --global user.email "github-actions@github.com"
+
           git add README.md
+
           git commit -m "Update AI news section" || echo "No changes"
-          git push
+
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN
+          }}@github.com/${{ github.repository }} HEAD:main

@@ -1,0 +1,40 @@
+name: Update README with AI News
+
+on:
+  schedule:
+    - cron: '0 9 * * *' # Runs daily at 09:00 UTC
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Fetch latest AI news
+        run: python fetch_ai_news.py > news_section.md
+
+      - name: Update README
+        run: |
+          # Replace the placeholder in README with news_section content
+          sed -i '/<!-- AI NEWS START -->/,/<!-- AI NEWS END -->/c\
+<!-- AI NEWS START -->\n$(cat news_section.md)\n<!-- AI NEWS END -->' README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update AI news section" || echo "No changes"
+          git push

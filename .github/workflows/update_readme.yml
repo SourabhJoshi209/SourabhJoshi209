@@ -1,41 +1,42 @@
 name: Update README with AI News
 'on':
   schedule:
-    - cron: 0 9 * * *
+    - cron: '0 9 * * *'
   push:
     branches:
       - main
+
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.x
+          python-version: '3.11'
+
       - name: Install requests
         run: pip install requests
+
       - name: Fetch latest AI news
         run: python .github/scripts/fetch_ai_news.py > news_section.md
+
       - name: Update README with AI News
-        run: >
-          awk '/<!-- AI NEWS START -->/{print; print str; in_block=1; next}
-          /<!-- AI NEWS END -->/{print; in_block=0; next} in_block{next}
-          {print}' \
+        run: |
+          awk '/<!-- AI NEWS START -->/{print; print str; in_block=1; next} /<!-- AI NEWS END -->/{print; in_block=0; next} in_block{next} {print}' str="$(cat news_section.md)" README.md > README.new && mv README.new README.md
 
-          str="$(cat news_section.md)" README.md > README.new && mv README.new
-          README.md
-      - name: Commit changes
-        run: >
-          git config --global user.name "github-actions"
-
-          git config --global user.email "github-actions@github.com"
-
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-
-          git commit -m "Update AI news section" || echo "No changes"
-
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN
-          }}@github.com/${{ github.repository }} HEAD:main
+          git commit -m "Update AI news section" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

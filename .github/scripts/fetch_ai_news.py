@@ -16,6 +16,9 @@ def get_ai_news():
     data = response.json()
 
     news_items = []
+    if 'hits' not in data:
+        print("Warning: 'hits' key not found in API response.")
+        return ""  # or some default content
     for hit in data['hits']:
         title = hit['title']
         url = hit['url']

@@ -12,6 +12,8 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Warning: 'hits' key not found in API response.
+## 🚀 Latest AI News (Updated daily)
 <!-- AI NEWS END -->
 
 

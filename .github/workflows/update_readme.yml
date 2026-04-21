@@ -23,7 +23,7 @@ jobs:
         run: pip install requests
 
       - name: Fetch latest AI news
-        run: python fetch_ai_news.py > news_section.md
+        run: python .github/scripts/fetch_ai_news.py > news_section.md
 
       - name: Update README
         run: |

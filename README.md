@@ -12,7 +12,7 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Error fetching from RapidAPI: 403 Client Error: Forbidden for url: https://ai10.p.rapidapi.com/people/artificial-intelligence/page/1/
+Error fetching from RapidAPI: 404 Client Error: Not Found for url: https://ai10.p.rapidapi.com/people/artificial-intelligence/page/1/
 <!-- AI NEWS END -->
 
 

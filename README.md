@@ -12,7 +12,7 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Error fetching from RapidAPI: HTTPSConnectionPool(host='ai10.p.rapidapi.com', port=443): Read timed out. (read timeout=10)
+Error fetching from RapidAPI: 404 Client Error: Not Found for url: https://ai10.p.rapidapi.com/people/artificial-intelligence/page/1/
 <!-- AI NEWS END -->
 
 

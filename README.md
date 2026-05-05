@@ -21,7 +21,7 @@ Elon Musk settles SEC lawsuit over Twitter purchase and agrees to pay $1.5m fine
 <!-- AI NEWS END -->
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

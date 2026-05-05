@@ -12,14 +12,13 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
---- TOP 3 TECH NEWS ---
-Headline: GameStop shares fall 10% after CEO skirts questions over eBay acquisition details
+GameStop shares fall 10% after CEO skirts questions over eBay acquisition details
 Link: https://www.theguardian.com//technology/2026/may/04/gamestop-ceo-ebay-acquisition
 --------------------
-Headline: Claude-powered AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’
+Claude-powered AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’
 Link: https://www.theguardian.com//technology/2026/apr/29/claude-ai-deletes-firm-database
 --------------------
-Headline: Elon Musk settles SEC lawsuit over Twitter purchase and agrees to pay $1.5m fine
+Elon Musk settles SEC lawsuit over Twitter purchase and agrees to pay $1.5m fine
 Link: https://www.theguardian.com//technology/2026/may/04/elon-musk-sec-twitter-x-lawsuit-fine
 --------------------
 <!-- AI NEWS END -->

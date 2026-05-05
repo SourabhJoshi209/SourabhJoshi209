@@ -12,8 +12,7 @@ response = requests.get(url, headers=headers)
 
 news_list = response.json()
 
-print("--- TOP 3 TECH NEWS ---")
 for article in news_list[:3]:
-    print(f"Headline: {article['title']}")
+    print(f"{article['title']}")
     print(f"Link: {article['url']}")
     print("-" * 20)

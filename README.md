@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Claude-powered AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’
+Richard Dawkins concludes AI is conscious, even if it doesn’t know it
 --------------------
-‘Astonishing’: Richard Dawkins says AI is conscious, even if it doesn’t know it
+Apple agrees to pay $250m after falsely claiming AI-powered Siri was ‘available now’
 --------------------
-Elon Musk settles SEC lawsuit over Twitter purchase and agrees to pay $1.5m fine
+New Mexico proposes $3.7bn fine for Meta and sweeping changes to its social platforms
 --------------------
 <!-- AI NEWS END -->
 

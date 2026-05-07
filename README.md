@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Richard Dawkins concludes AI is conscious, even if it doesn’t know it
+Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial
 --------------------
-Apple agrees to pay $250m after falsely claiming AI-powered Siri was ‘available now’
+‘No one has done this in the wild’: study observes AI replicate itself
 --------------------
-New Mexico proposes $3.7bn fine for Meta and sweeping changes to its social platforms
+Europe’s AI translation industry told it risks reputation by partnering with US firms
 --------------------
 <!-- AI NEWS END -->
 

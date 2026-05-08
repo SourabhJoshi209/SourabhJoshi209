@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial
+‘Being human helps’: despite rise of AI is there still hope for Europe’s translators?
+--------------------
+UK schools should remove pupils’ online photos as AI blackmail threat grows, say experts
 --------------------
 ‘No one has done this in the wild’: study observes AI replicate itself
---------------------
-Europe’s AI translation industry told it risks reputation by partnering with US firms
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+double quotation markAI-powered surveillance company Palantir created a chore coat. Great, now I have no choice but to burn mine
+--------------------
+Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial
+--------------------
 ‘Being human helps’: despite rise of AI is there still hope for Europe’s translators?
---------------------
-UK schools should remove pupils’ online photos as AI blackmail threat grows, say experts
---------------------
-‘No one has done this in the wild’: study observes AI replicate itself
 --------------------
 <!-- AI NEWS END -->
 

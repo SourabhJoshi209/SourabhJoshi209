@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-double quotation markAI-powered surveillance company Palantir created a chore coat. Great, now I have no choice but to burn mine
+Google developers significantly misstate carbon emissions of proposed UK datacentres
 --------------------
-Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial
+What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge
 --------------------
-‘Being human helps’: despite rise of AI is there still hope for Europe’s translators?
+Who is Louis Mosley, the man tasked with defending Palantir against its critics?
 --------------------
 <!-- AI NEWS END -->
 

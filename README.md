@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
+--------------------
+double quotation markMistaking AI behaviour for conscious being
+--------------------
 Google developers significantly misstate carbon emissions of proposed UK datacentres
---------------------
-What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge
---------------------
-Who is Louis Mosley, the man tasked with defending Palantir against its critics?
 --------------------
 <!-- AI NEWS END -->
 

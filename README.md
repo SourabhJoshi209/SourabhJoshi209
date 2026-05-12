@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
+Trump heads to China to spread the gospel of American tech while emulating Xi Jinping on AI
 --------------------
-double quotation markMistaking AI behaviour for conscious being
+Texas accuses Netflix of spying on children in new lawsuit
 --------------------
-Google developers significantly misstate carbon emissions of proposed UK datacentres
+AI-powered hacking has exploded into industrial-scale threat, Google says
 --------------------
 <!-- AI NEWS END -->
 

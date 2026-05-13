@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Trump heads to China to spread the gospel of American tech while emulating Xi Jinping on AI
+Florida students boo graduation speaker who called AI ‘next Industrial Revolution’
 --------------------
-Texas accuses Netflix of spying on children in new lawsuit
+Google announces raft of free upgrades for Android phones
 --------------------
-AI-powered hacking has exploded into industrial-scale threat, Google says
+Datacentres using 6% of electricity supply in UK and US, research says
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,7 +12,7 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Florida students boo graduation speaker who called AI ‘next Industrial Revolution’
+‘There are no rules’: spotlight on Gossip Goblin as AI film-making enters new era
 --------------------
 Google announces raft of free upgrades for Android phones
 --------------------

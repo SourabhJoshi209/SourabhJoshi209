@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+‘I didn’t want to be the guinea pig’: inside tech’s AI-fueled manager purge
+--------------------
+double quotation markRichard Dawkins and the question of AI consciousness
+--------------------
 Digital arson spree by ‘AI Bonnie and Clyde’ raises fears over autonomous tech
---------------------
-Developer withdraws plans for Perth datacentre after fierce community opposition
---------------------
-‘There are no rules’: spotlight on Gossip Goblin as AI film-making enters new era
 --------------------
 <!-- AI NEWS END -->
 

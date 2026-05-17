@@ -12,7 +12,7 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘I didn’t want to be the guinea pig’: inside tech’s AI-fueled manager purge
+Canvas hack: is it ever a good idea to pay a ransom, and what happens to the data?
 --------------------
 double quotation markRichard Dawkins and the question of AI consciousness
 --------------------

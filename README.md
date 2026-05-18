@@ -12,9 +12,9 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Canvas hack: is it ever a good idea to pay a ransom, and what happens to the data?
+Nothing Phone 4a Pro review: premium aluminium meets quirky design
 --------------------
-double quotation markRichard Dawkins and the question of AI consciousness
+Anthropic to share Mythos cyber flaw findings with global finance watchdog
 --------------------
 Digital arson spree by ‘AI Bonnie and Clyde’ raises fears over autonomous tech
 --------------------

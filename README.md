@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Jury hands victory to Sam Altman and OpenAI in battle with Elon Musk
+--------------------
+How Sam Altman’s victory over Elon Musk clears way for OpenAI’s trillion-dollar ambitions
+--------------------
 Nothing Phone 4a Pro review: premium aluminium meets quirky design
---------------------
-Anthropic to share Mythos cyber flaw findings with global finance watchdog
---------------------
-Digital arson spree by ‘AI Bonnie and Clyde’ raises fears over autonomous tech
 --------------------
 <!-- AI NEWS END -->
 

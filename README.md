@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Jury hands victory to Sam Altman and OpenAI in battle with Elon Musk
+AI engineer says Google unfairly sacked him after he protested against work for Israel
 --------------------
-How Sam Altman’s victory over Elon Musk clears way for OpenAI’s trillion-dollar ambitions
+Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears
 --------------------
-Nothing Phone 4a Pro review: premium aluminium meets quirky design
+Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’
 --------------------
 <!-- AI NEWS END -->
 

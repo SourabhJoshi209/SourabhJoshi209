@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-AI engineer says Google unfairly sacked him after he protested against work for Israel
+Tesla Cybertruck pulled from Texas lake after attempting ‘wade mode’
 --------------------
-Sony 1000XX the Collexion headphones review: supreme comfort and quiet luxury for your ears
+AI will help make a Nobel prize-winning discovery within a year, says Anthropic co-founder
 --------------------
-Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’
+Elon Musk’s X fined $650,000 after failing to comply with Australian child safety notice
 --------------------
 <!-- AI NEWS END -->
 

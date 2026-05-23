@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Palantir hits back at Sadiq Khan after £50m contract with Met police blocked
+--------------------
+Real or AI: can a photographer and internet addict spot fake portraits? – video
+--------------------
 OpenAI makes breakthrough on 80-year-old maths problem
---------------------
-Mars colony and Grok warnings: five strange details in SpaceX’s pitch to investors
---------------------
-Meta settles major social media addiction lawsuit with school district
 --------------------
 <!-- AI NEWS END -->
 

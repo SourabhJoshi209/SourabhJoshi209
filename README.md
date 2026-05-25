@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’
+--------------------
 ‘AI washing’: firms are scrambling to rebrand themselves as tech-focused
 --------------------
-‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes
---------------------
-‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’
+OpenAI makes breakthrough on 80-year-old maths problem
 --------------------
 <!-- AI NEWS END -->
 

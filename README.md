@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’
+double quotation markAI ‘art’ is boring, soulless theft – and when I see it as an artist I see red
 --------------------
-‘AI washing’: firms are scrambling to rebrand themselves as tech-focused
+Google employee charged with using insider data to rig bets on Polymarket
 --------------------
-OpenAI makes breakthrough on 80-year-old maths problem
+Studio Display XDR review: Apple’s pro display shines very brightly
 --------------------
 <!-- AI NEWS END -->
 

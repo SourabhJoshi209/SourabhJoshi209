@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-double quotation markAI ‘art’ is boring, soulless theft – and when I see it as an artist I see red
+Anger at decision not to extradite Canadian suicide kit supplier to face UK justice
 --------------------
-Google employee charged with using insider data to rig bets on Polymarket
+Workers need greater say over AI rollout, says TUC-backed report
 --------------------
-Studio Display XDR review: Apple’s pro display shines very brightly
+So dumb it just might work: can these dumbphone evangelists convince you to dump smartphones?
 --------------------
 <!-- AI NEWS END -->
 

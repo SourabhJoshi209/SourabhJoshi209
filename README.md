@@ -16,7 +16,7 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 --------------------
 Studio Display XDR review: Apple’s pro display shines very brightly
 --------------------
-So dumb it just might work: can these dumbphone evangelists convince you to dump smartphones?
+Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 --------------------
 <!-- AI NEWS END -->
 

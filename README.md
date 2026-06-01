@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘It was too easy’: families ask how Kenneth Law enabled so many suicides
+Meta whistleblower’s lawyer says he too is prevented from promoting her book
 --------------------
-Studio Display XDR review: Apple’s pro display shines very brightly
+Nvidia launches ‘superchip’ putting AI power into laptops and PCs
 --------------------
-Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+Meta legal action forces Facebook whistleblower to sit in silence at Hay festival
 --------------------
 <!-- AI NEWS END -->
 

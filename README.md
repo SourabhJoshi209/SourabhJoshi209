@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+As the tech mega-IPO race heats up, has OpenAI missed its moment?
+--------------------
 Debugging: Google requests permission to release 32m mosquitoes in California and Florida
 --------------------
 Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account
---------------------
-Google owner Alphabet to sell $80bn in stock to fund AI spending spree
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-As the tech mega-IPO race heats up, has OpenAI missed its moment?
+My year with the robots: how Joanna Stern let AI into her home, work – and heart
 --------------------
-Debugging: Google requests permission to release 32m mosquitoes in California and Florida
+Labour MP sues Elon Musk’s xAI company over fake sexualised images
 --------------------
-Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account
+double quotation markWe’d love to leave X, but sadly have little choice
 --------------------
 <!-- AI NEWS END -->
 

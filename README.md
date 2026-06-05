@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-My year with the robots: how Joanna Stern let AI into her home, work – and heart
+Microsoft to tighten human rights measures after inquiry into Israel’s use of its tech
+--------------------
+New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case
 --------------------
 Labour MP sues Elon Musk’s xAI company over fake sexualised images
---------------------
-double quotation markWe’d love to leave X, but sadly have little choice
 --------------------
 <!-- AI NEWS END -->
 

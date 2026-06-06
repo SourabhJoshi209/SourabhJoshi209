@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Microsoft to tighten human rights measures after inquiry into Israel’s use of its tech
+Anthropic says the world should have option to ‘pause’ on AI
 --------------------
-New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case
+Labour will make AI ‘work for the workers’, says Liz Kendall
 --------------------
-Labour MP sues Elon Musk’s xAI company over fake sexualised images
+double quotation markI asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons
 --------------------
 <!-- AI NEWS END -->
 

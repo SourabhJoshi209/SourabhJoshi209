@@ -12,9 +12,9 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Anthropic says the world should have option to ‘pause’ on AI
+‘A driver of political violence’: how the breakneck AI boom is fueling anti-tech extremism
 --------------------
-Labour will make AI ‘work for the workers’, says Liz Kendall
+Anthropic says the world should have option to ‘pause’ on AI
 --------------------
 double quotation markI asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons
 --------------------

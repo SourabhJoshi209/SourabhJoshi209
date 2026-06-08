@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘A driver of political violence’: how the breakneck AI boom is fueling anti-tech extremism
+Starmer gives tech firms ultimatum to block explicit images on children’s phones
+--------------------
+Billions spent and hypothetical returns: the AI boom explained with six charts
 --------------------
 Anthropic says the world should have option to ‘pause’ on AI
---------------------
-double quotation markI asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons
 --------------------
 <!-- AI NEWS END -->
 

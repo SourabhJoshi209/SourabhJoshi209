@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Starmer gives tech firms ultimatum to block explicit images on children’s phones
+OpenAI confidentially files for initial public offering on US stock market
+--------------------
+Apple debuts revamped ‘Siri AI’ and new child safety features for iPhones and iPads
 --------------------
 Billions spent and hypothetical returns: the AI boom explained with six charts
---------------------
-Anthropic says the world should have option to ‘pause’ on AI
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-OpenAI confidentially files for initial public offering on US stock market
+Chinese activist in UK told by X that abusive deepfakes do not breach rules
 --------------------
-Apple debuts revamped ‘Siri AI’ and new child safety features for iPhones and iPads
+Palantir to sue Sadiq Khan over blocked £50m Met police contract
 --------------------
-Billions spent and hypothetical returns: the AI boom explained with six charts
+Anthropic releases ‘safe’ version of Claude Mythos AI model to public
 --------------------
 <!-- AI NEWS END -->
 

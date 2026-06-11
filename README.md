@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Chinese activist in UK told by X that abusive deepfakes do not breach rules
+AI absolutism is breaking our brains. The apocalyptic future we’re being sold isn’t inevitable
 --------------------
 Palantir to sue Sadiq Khan over blocked £50m Met police contract
 --------------------
-Anthropic releases ‘safe’ version of Claude Mythos AI model to public
+Into the HyperVerse: inside a crypto scheme that cost investors millions of dollars – documentary
 --------------------
 <!-- AI NEWS END -->
 

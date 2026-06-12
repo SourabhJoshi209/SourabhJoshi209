@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Pokémon Go data trained AI that could assist military drones in war zones
+--------------------
 AI absolutism is breaking our brains. The apocalyptic future we’re being sold isn’t inevitable
 --------------------
-Palantir to sue Sadiq Khan over blocked £50m Met police contract
---------------------
-Into the HyperVerse: inside a crypto scheme that cost investors millions of dollars – documentary
+Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims
 --------------------
 <!-- AI NEWS END -->
 

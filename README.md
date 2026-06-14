@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+X accused of giving racists ‘impunity’ after refusing to bar N- and P-word posts
+--------------------
+Anthropic to disable its most advanced AI models after US order limiting foreign access
+--------------------
 Palantir loses legal challenge to force Swiss magazine to publish responses
---------------------
-Derbyshire police officer investigated over AI-generated ‘evidential material’
---------------------
-How much money did Elon Musk make in SpaceX’s stock market debut?
 --------------------
 <!-- AI NEWS END -->
 

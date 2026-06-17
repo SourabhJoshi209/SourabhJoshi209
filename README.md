@@ -12,12 +12,7 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Anthropic to disable its most advanced AI models after US order limiting foreign access
---------------------
-Palantir loses legal challenge to force Swiss magazine to publish responses
---------------------
-Pokémon Go data trained AI that could assist military drones in war zones
---------------------
+
 <!-- AI NEWS END -->
 
 

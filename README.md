@@ -12,7 +12,12 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-
+Gig workers are endlessly exploited. AI could make more of us share their fate
+--------------------
+‘A neoliberal nightmare’: my ride on the Vegas Loop – Elon Musk’s answer to traffic jams
+--------------------
+Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit
+--------------------
 <!-- AI NEWS END -->
 
 

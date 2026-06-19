@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Telegram questioned by Ofcom after arsonist who targeted Starmer-linked properties recruited on app
+--------------------
+Attorney general tells department to stop using X amid UK disinformation concerns
+--------------------
 Gig workers are endlessly exploited. AI could make more of us share their fate
---------------------
-‘A neoliberal nightmare’: my ride on the Vegas Loop – Elon Musk’s answer to traffic jams
---------------------
-Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit
 --------------------
 <!-- AI NEWS END -->
 

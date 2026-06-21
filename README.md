@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Brands using AI-generated influencers to promote products on social media
+--------------------
+Key Trump allies and Musk on leaked list for secretive Peter Thiel retreat
+--------------------
 A viral doomsday scenario aims to shake Europe out of its AI complacency
---------------------
-Telegram questioned by Ofcom after arsonist who targeted Starmer-linked properties recruited on app
---------------------
-The Rev Michael Humphreys obituary
 --------------------
 <!-- AI NEWS END -->
 

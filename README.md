@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+AI models that can take down governments and business months away, rare Five Eyes statement warns
+--------------------
 Brands using AI-generated influencers to promote products on social media
 --------------------
 Key Trump allies and Musk on leaked list for secretive Peter Thiel retreat
---------------------
-A viral doomsday scenario aims to shake Europe out of its AI complacency
 --------------------
 <!-- AI NEWS END -->
 

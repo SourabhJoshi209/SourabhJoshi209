@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns
+‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies
+--------------------
+Chinese supercomputer leapfrogs best US machines to be ranked world’s fastest
 --------------------
 HR consultant wins English court case using AI lawyer in apparent legal first
---------------------
-Brands using AI-generated influencers to promote products on social media
 --------------------
 <!-- AI NEWS END -->
 

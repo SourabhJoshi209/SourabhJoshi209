@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Elon Musk loses trillionaire status as SpaceX and Tesla stock drops
+--------------------
+AI helps read papyrus scroll burnt to crisp during Vesuvius eruption
+--------------------
 ‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies
---------------------
-Chinese supercomputer leapfrogs best US machines to be ranked world’s fastest
---------------------
-HR consultant wins English court case using AI lawyer in apparent legal first
 --------------------
 <!-- AI NEWS END -->
 

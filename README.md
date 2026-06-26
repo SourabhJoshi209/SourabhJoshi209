@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Elon Musk loses trillionaire status as SpaceX and Tesla stock drops
+Australians to pay at least 20% more for iPads and Macbooks after Apple hikes prices citing AI
 --------------------
-AI helps read papyrus scroll burnt to crisp during Vesuvius eruption
+Apple raises iPad and MacBook prices, blaming cost of chips amid AI boom
 --------------------
-‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies
+Whistleblower Sarah Wynn-Williams sues Meta over attempts to ‘silence’ her
 --------------------
 <!-- AI NEWS END -->
 

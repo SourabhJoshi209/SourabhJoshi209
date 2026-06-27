@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Australians to pay at least 20% more for iPads and Macbooks after Apple hikes prices citing AI
+OpenAI staggers AI model release after Trump administration request
 --------------------
 Apple raises iPad and MacBook prices, blaming cost of chips amid AI boom
 --------------------
-Whistleblower Sarah Wynn-Williams sues Meta over attempts to ‘silence’ her
+‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-OpenAI staggers AI model release after Trump administration request
+‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies
 --------------------
 Apple raises iPad and MacBook prices, blaming cost of chips amid AI boom
 --------------------
-‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies
+Australians to pay at least 20% more for iPads and Macbooks after Apple hikes prices citing AI
 --------------------
 <!-- AI NEWS END -->
 

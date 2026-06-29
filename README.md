@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies
+Ministers likely to support law change to allow delivery robots on England’s paths
 --------------------
-Apple raises iPad and MacBook prices, blaming cost of chips amid AI boom
+Ring Video Doorbell Pro review: night and day better with new 4K camera
 --------------------
-Australians to pay at least 20% more for iPads and Macbooks after Apple hikes prices citing AI
+‘A very good gadget’: taking delivery from the robots of Milton Keynes
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,9 +12,9 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Ministers likely to support law change to allow delivery robots on England’s paths
+Oura Ring 5 review: a stunning generational leap for smart rings
 --------------------
-Ring Video Doorbell Pro review: night and day better with new 4K camera
+Crypto firms operating in UK to be subject to sweeping new rules
 --------------------
 ‘A very good gadget’: taking delivery from the robots of Milton Keynes
 --------------------

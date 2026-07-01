@@ -14,9 +14,9 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 <!-- AI NEWS START -->
 Oura Ring 5 review: a stunning generational leap for smart rings
 --------------------
-Crypto firms operating in UK to be subject to sweeping new rules
+Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears
 --------------------
-‘A very good gadget’: taking delivery from the robots of Milton Keynes
+Rapid spread of AI may worsen global inequality, UN warns
 --------------------
 <!-- AI NEWS END -->
 

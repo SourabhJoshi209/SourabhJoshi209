@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-OpenAI ‘in early talks to give 5% stake to US government’
---------------------
 Oura Ring 5 review: a stunning generational leap for smart rings
 --------------------
-double quotation markWe can live without AI, but can we live without clean water?
+Lisa Nandy quits X over fears Musk-owned site pushes ‘abuse and misinformation’
+--------------------
+OpenAI ‘in early talks to give 5% stake to US government’
 --------------------
 <!-- AI NEWS END -->
 

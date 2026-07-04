@@ -14,9 +14,9 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 <!-- AI NEWS START -->
 Oura Ring 5 review: a stunning generational leap for smart rings
 --------------------
-Lisa Nandy quits X over fears Musk-owned site pushes ‘abuse and misinformation’
+double quotation markWe can debate the ethics of AI but can’t seem to change course
 --------------------
-OpenAI ‘in early talks to give 5% stake to US government’
+NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films
 --------------------
 <!-- AI NEWS END -->
 

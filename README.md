@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Oura Ring 5 review: a stunning generational leap for smart rings
+Elon Musk posted twice as often on UK race and immigration as about SpaceX in IPO run-up
+--------------------
+OpenAI’s apparent failure to visit key site raises questions over UK investment
 --------------------
 double quotation markWe can debate the ethics of AI but can’t seem to change course
---------------------
-NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films
 --------------------
 <!-- AI NEWS END -->
 

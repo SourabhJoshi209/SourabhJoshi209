@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Elon Musk posted twice as often on UK race and immigration as about SpaceX in IPO run-up
+Revealed: landmark Scottish AI project has no prospect of meeting renewables promise
 --------------------
-OpenAI’s apparent failure to visit key site raises questions over UK investment
+AI altering meaning of users’ drafts on issues from abortion to climate, study finds
 --------------------
-double quotation markWe can debate the ethics of AI but can’t seem to change course
+‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre
 --------------------
 <!-- AI NEWS END -->
 

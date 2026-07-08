@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Stymied datacentre projects threaten global AI revolution
---------------------
-AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns
---------------------
 AI altering meaning of users’ drafts on issues from abortion to climate, study finds
+--------------------
+Revealed: landmark Scottish AI project has no prospect of meeting renewables promise
+--------------------
+‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre
 --------------------
 <!-- AI NEWS END -->
 

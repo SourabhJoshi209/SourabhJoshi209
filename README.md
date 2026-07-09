@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Low-e windows keep homes cool … but may set neighbours’ property on fire
+--------------------
+What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs
+--------------------
 AI altering meaning of users’ drafts on issues from abortion to climate, study finds
---------------------
-Revealed: landmark Scottish AI project has no prospect of meeting renewables promise
---------------------
-‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre
 --------------------
 <!-- AI NEWS END -->
 

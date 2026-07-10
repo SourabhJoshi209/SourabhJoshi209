@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Low-e windows keep homes cool … but may set neighbours’ property on fire
+EU accuses Meta of failing to tackle mental health risks of ‘addictive design’
 --------------------
-What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs
+‘AI accountability agenda’: US senator unveils package of bills to curb tech’s harms
 --------------------
-AI altering meaning of users’ drafts on issues from abortion to climate, study finds
+Parents’ attachment to phone screens can lead to anxiety in children – study
 --------------------
 <!-- AI NEWS END -->
 

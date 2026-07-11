@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-EU accuses Meta of failing to tackle mental health risks of ‘addictive design’
+Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy
 --------------------
-‘AI accountability agenda’: US senator unveils package of bills to curb tech’s harms
+Use of VPNs to bypass age checks on porn sites to be investigated by Australia’s eSafety watchdog
 --------------------
-Parents’ attachment to phone screens can lead to anxiety in children – study
+Alarm over launch of facial recognition in UK shops that instantly alerts police
 --------------------
 <!-- AI NEWS END -->
 

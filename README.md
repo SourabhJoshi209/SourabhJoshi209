@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI
+--------------------
 Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy
 --------------------
-Use of VPNs to bypass age checks on porn sites to be investigated by Australia’s eSafety watchdog
---------------------
-Alarm over launch of facial recognition in UK shops that instantly alerts police
+Apple sues OpenAI, alleging artificial intelligence company stole trade secrets
 --------------------
 <!-- AI NEWS END -->
 

@@ -14,9 +14,9 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 <!-- AI NEWS START -->
 Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI
 --------------------
-Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy
---------------------
 Apple sues OpenAI, alleging artificial intelligence company stole trade secrets
+--------------------
+Low-e windows keep homes cool … but may set neighbours’ property on fire
 --------------------
 <!-- AI NEWS END -->
 

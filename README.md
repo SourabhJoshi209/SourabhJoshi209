@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI
+Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back
 --------------------
-Apple sues OpenAI, alleging artificial intelligence company stole trade secrets
+Finger princesses: are these the biggest villains of the chat group?
 --------------------
-Low-e windows keep homes cool … but may set neighbours’ property on fire
+The New York nurses replaced by AI: ‘It should concern every patient who cares about quality of care’
 --------------------
 <!-- AI NEWS END -->
 

@@ -14,9 +14,9 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 <!-- AI NEWS START -->
 Meta used AI to tag workers who took leave to be laid off, lawsuit claims
 --------------------
-UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew
+Uber to buy Germany’s Delivery Hero in $14.8bn global deal
 --------------------
-IBM loses quarter of its value as tech giant’s shares plunge and profits falter
+‘Keys to the kingdom’: hackers who gained access to heart of London transport network jailed
 --------------------
 <!-- AI NEWS END -->
 

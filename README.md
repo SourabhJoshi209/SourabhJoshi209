@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Thousands of Google workers demand layoff protections amid AI boom in petition to CEO
+--------------------
 Meta used AI to tag workers who took leave to be laid off, lawsuit claims
 --------------------
-Uber to buy Germany’s Delivery Hero in $14.8bn global deal
---------------------
-‘Keys to the kingdom’: hackers who gained access to heart of London transport network jailed
+Trump made $1.4bn from crypto in one year. Is Justin Sun the man who helped him do it?
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Meta trying to destroy whistleblower Sarah Wynn-Williams, US senator says
---------------------
 Amazon Web Services customers receive bills for up to $1.5tn after global glitch
 --------------------
-Thousands of Google workers demand layoff protections amid AI boom in petition to CEO
+Tell us: are you wearing the new Meta glasses?
+--------------------
+Meta trying to destroy whistleblower Sarah Wynn-Williams, US senator says
 --------------------
 <!-- AI NEWS END -->
 

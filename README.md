@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Amazon Web Services customers receive bills for up to $1.5tn after global glitch
+Jeff Bezos and UK government invest in £2bn British startup CuspAI
 --------------------
-Tell us: are you wearing the new Meta glasses?
+Experts warn of rise in sadistic online exploitation of vulnerable children
 --------------------
-Meta trying to destroy whistleblower Sarah Wynn-Williams, US senator says
+Could AI be conscious?
 --------------------
 <!-- AI NEWS END -->
 

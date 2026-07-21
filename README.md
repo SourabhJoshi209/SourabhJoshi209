@@ -12,11 +12,11 @@ Data Engineer | 3+ years experience in building scalable data pipelines, ETL wor
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Jeff Bezos and UK government invest in £2bn British startup CuspAI
+Inside the horrifying online network where children extort others to commit violence and self-harm
 --------------------
-Experts warn of rise in sadistic online exploitation of vulnerable children
+Election voting advice from AI chatbots ‘inaccurate and unreliable’
 --------------------
-Could AI be conscious?
+double quotation markThe life-changing magic of wearing smartglasses
 --------------------
 <!-- AI NEWS END -->
 

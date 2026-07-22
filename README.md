@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+OpenAI says its models went rogue and hacked startup in ‘unprecedented incident’
+--------------------
 Inside the horrifying online network where children extort others to commit violence and self-harm
 --------------------
-Election voting advice from AI chatbots ‘inaccurate and unreliable’
---------------------
-double quotation markThe life-changing magic of wearing smartglasses
+Headaches for Silicon Valley as China chips away at the US’s lead in the AI race
 --------------------
 <!-- AI NEWS END -->
 

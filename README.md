@@ -1,7 +1,7 @@
 ### Hi there 👋, I am [Sourabh]()! 😁
 
 # 💫 About Me:
-Data Engineer | 3+ years experience in building scalable data pipelines, ETL workflows, and analytics on Azure. Skilled in Python, SQL, PySpark, and cloud architecture. Passionate about transforming complex data into insights and automating processes for operational excellence.<br><br>Currently, I'm focused on:<br> - Designing end to end data engineering solutions across Azure & Databricks.<br> - Upskilling in GenAI for data & Analytics use cases.
+Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL workflows, and analytics on Azure. Skilled in Python, SQL, PySpark, and cloud architecture. Passionate about transforming complex data into insights and automating processes for operational excellence.<br><br>Currently, I'm focused on:<br> - Designing end to end data engineering solutions across Azure & Databricks.<br> - Upskilling in GenAI for data & Analytics use cases.
 
 
 ## 🌐 Socials:

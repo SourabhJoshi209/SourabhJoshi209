@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+EU fines Google €890m for competition breaches over search and apps
+--------------------
 AI agent went rogue and hacked startup by itself, OpenAI reveals
 --------------------
-Inside the horrifying online network where children coerce others to commit violence and self-harm
---------------------
-Headaches for Silicon Valley as China chips away at the US’s lead in the AI race
+Harry Potter publisher to receive millions in Anthropic copyright settlement
 --------------------
 <!-- AI NEWS END -->
 

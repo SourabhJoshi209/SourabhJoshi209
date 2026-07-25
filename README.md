@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-EU fines Google €890m for competition breaches over search and apps
+double quotation markBe skeptical of OpenAI’s rogue hacker agent story
+--------------------
+Elon Musk says he got ‘carried away’ with Trump – but still holds on to contentious political views
 --------------------
 AI agent went rogue and hacked startup by itself, OpenAI reveals
---------------------
-Harry Potter publisher to receive millions in Anthropic copyright settlement
 --------------------
 <!-- AI NEWS END -->
 

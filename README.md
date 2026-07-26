@@ -12,9 +12,9 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-double quotation markBe skeptical of OpenAI’s rogue hacker agent story
+double quotation markThe AI jobs apocalypse probably isn’t coming anytime soon
 --------------------
-Elon Musk says he got ‘carried away’ with Trump – but still holds on to contentious political views
+double quotation markBe skeptical of OpenAI’s rogue hacker agent story
 --------------------
 AI agent went rogue and hacked startup by itself, OpenAI reveals
 --------------------

@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-double quotation markThe AI jobs apocalypse probably isn’t coming anytime soon
+Misleading AI-generated doctors pose ‘huge danger to public safety’
 --------------------
-double quotation markBe skeptical of OpenAI’s rogue hacker agent story
+AusAlert blared around parks, libraries and cinemas for a few seconds, but some didn’t get the alert at all
 --------------------
-AI agent went rogue and hacked startup by itself, OpenAI reveals
+Honor Magic V6 review: sleek foldable phone lacking a bit of polish
 --------------------
 <!-- AI NEWS END -->
 

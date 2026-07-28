@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Misleading AI-generated doctors pose ‘huge danger to public safety’
+Space & Astronomy
 --------------------
-AusAlert blared around parks, libraries and cinemas for a few seconds, but some didn’t get the alert at all
+In This Costa Rican Forest, Monkeys Come Face-to-Face With A.I.
 --------------------
-Honor Magic V6 review: sleek foldable phone lacking a bit of polish
+Should We Make Daylight Saving Time Permanent?
 --------------------
 <!-- AI NEWS END -->
 

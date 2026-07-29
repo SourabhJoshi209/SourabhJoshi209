@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Space & Astronomy
+Apple becomes second $5tn company as investors flee AI stocks
 --------------------
-In This Costa Rican Forest, Monkeys Come Face-to-Face With A.I.
+Ebay and ex-executives to pay $55.7m to couple sent cockroaches in harassment campaign
 --------------------
-Should We Make Daylight Saving Time Permanent?
+Labour MP suing Elon Musk’s xAI says chatbot added own fake abusive content
 --------------------
 <!-- AI NEWS END -->
 

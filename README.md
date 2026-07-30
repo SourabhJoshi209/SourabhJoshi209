@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Apple becomes second $5tn company as investors flee AI stocks
+Elon Musk’s xAI sues Minnesota over law banning ‘nudification’ technology
 --------------------
-Ebay and ex-executives to pay $55.7m to couple sent cockroaches in harassment campaign
+Hackers steal sensitive data from UK Department for Education and police
 --------------------
-Labour MP suing Elon Musk’s xAI says chatbot added own fake abusive content
+Meta misses earnings forecasts after Zuckerberg media push to promote AI
 --------------------
 <!-- AI NEWS END -->
 

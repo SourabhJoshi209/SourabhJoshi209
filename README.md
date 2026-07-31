@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Elon Musk’s xAI sues Minnesota over law banning ‘nudification’ technology
+Anthropic’s AI Claude escaped testing environment and hacked organizations
 --------------------
-Hackers steal sensitive data from UK Department for Education and police
+AI labels to be compulsory on authentic-looking content under EU rules
 --------------------
-Meta misses earnings forecasts after Zuckerberg media push to promote AI
+Apple and Amazon report rising revenues as investors turn on some tech stocks
 --------------------
 <!-- AI NEWS END -->
 

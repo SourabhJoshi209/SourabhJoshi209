@@ -12,12 +12,7 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Anthropic’s AI Claude escaped testing environment and hacked organizations
---------------------
-AI labels to be compulsory on authentic-looking content under EU rules
---------------------
-Apple and Amazon report rising revenues as investors turn on some tech stocks
---------------------
+
 <!-- AI NEWS END -->
 
 

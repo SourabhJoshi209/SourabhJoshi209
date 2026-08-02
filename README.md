@@ -12,7 +12,12 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-
+‘More than just objects’: Australian booksellers raise alarm over ‘horrific’ destruction of rare titles to feed AI
+--------------------
+Stock market turmoil sheds stark light on the opaque AI economy
+--------------------
+China’s tech advances are causing chaos from Silicon Valley to the White House
+--------------------
 <!-- AI NEWS END -->
 
 

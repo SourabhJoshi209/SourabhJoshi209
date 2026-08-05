@@ -12,12 +12,7 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Can you tell if someone is filming you with Meta glasses? – video
---------------------
-Apple launches legal challenge against UK government demand to access data
---------------------
-Stock market turmoil sheds stark light on the opaque AI economy
---------------------
+
 <!-- AI NEWS END -->
 
 

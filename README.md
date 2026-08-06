@@ -12,7 +12,12 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-
+‘I’m not spying’: how Meta’s smartglasses have divided opinion
+--------------------
+Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears
+--------------------
+Why I'll never be convinced by Meta's ‘pervert’ glasses | Opinion
+--------------------
 <!-- AI NEWS END -->
 
 

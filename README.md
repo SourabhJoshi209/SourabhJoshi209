@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘I’m not spying’: how Meta’s smartglasses have divided opinion
+New Mexico court orders Meta to pay $567m over harms to children’s mental health
 --------------------
-Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears
+double quotation markOne of science fiction’s greatest writers warned us about AI. Could his ideas help us avoid a dystopian future?
 --------------------
-Why I'll never be convinced by Meta's ‘pervert’ glasses | Opinion
+double quotation markLloyds Bank should publish the human cost of its AI savings
 --------------------
 <!-- AI NEWS END -->
 

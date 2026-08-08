@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-New Mexico court orders Meta to pay $567m over harms to children’s mental health
+This man was secretly snapped by someone with smartglasses. He’s not alone in calling that a violation of privacy
 --------------------
-double quotation markOne of science fiction’s greatest writers warned us about AI. Could his ideas help us avoid a dystopian future?
+Rising number of UK children report seeing explicit deepfakes of themselves
 --------------------
-double quotation markLloyds Bank should publish the human cost of its AI savings
+Could Meta’s ‘pervert glasses’ be banned across the UK? - The Latest
 --------------------
 <!-- AI NEWS END -->
 

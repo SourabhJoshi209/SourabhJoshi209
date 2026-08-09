@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+OpenAI to pause some work on AI model Astra due to security concerns
+--------------------
 This man was secretly snapped by someone with smartglasses. He’s not alone in calling that a violation of privacy
 --------------------
-Rising number of UK children report seeing explicit deepfakes of themselves
---------------------
-Could Meta’s ‘pervert glasses’ be banned across the UK? - The Latest
+Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role
 --------------------
 <!-- AI NEWS END -->
 

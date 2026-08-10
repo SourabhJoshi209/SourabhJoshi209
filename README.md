@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-OpenAI to pause some work on AI model Astra due to security concerns
+‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content
 --------------------
-This man was secretly snapped by someone with smartglasses. He’s not alone in calling that a violation of privacy
+Samsung Galaxy Z Fold 8 review: your passport to a folding phone future
 --------------------
-Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role
+Sheep-herding robot dogs put to the test at Royal Queensland Show – video
 --------------------
 <!-- AI NEWS END -->
 

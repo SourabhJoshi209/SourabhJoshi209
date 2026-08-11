@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘I’ve definitely lost followers’: influencers face backlash over Meta ‘pervert glasses’ content
+Gangs using Airbnb-type rentals as drug stash houses, top Belgian official says
 --------------------
-Samsung Galaxy Z Fold 8 review: your passport to a folding phone future
+Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model
 --------------------
-Sheep-herding robot dogs put to the test at Royal Queensland Show – video
+Nvidia links with Wall Street firms for $500bn AI financing deal
 --------------------
 <!-- AI NEWS END -->
 

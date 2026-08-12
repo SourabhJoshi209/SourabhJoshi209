@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Gangs using Airbnb-type rentals as drug stash houses, top Belgian official says
+Bumble drops women-first chat rule as dating apps seek engagement boost
 --------------------
-Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model
+Meta glasses banned from courts in England and Wales
 --------------------
-Nvidia links with Wall Street firms for $500bn AI financing deal
+Spotify to distinguish AI artists from real people – and stop recommending them
 --------------------
 <!-- AI NEWS END -->
 

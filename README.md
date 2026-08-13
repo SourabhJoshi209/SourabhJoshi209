@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Bumble drops women-first chat rule as dating apps seek engagement boost
+Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack
 --------------------
-Meta glasses banned from courts in England and Wales
+Samsung Galaxy Z Fold 8 Ultra review: the top dog of folding Androids
 --------------------
-Spotify to distinguish AI artists from real people – and stop recommending them
+AI was supposed to destroy jobs. Where’s the carnage?
 --------------------
 <!-- AI NEWS END -->
 

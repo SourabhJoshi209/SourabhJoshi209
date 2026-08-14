@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack
+OpenAI to pause some work on AI model Astra due to security concerns
 --------------------
-Samsung Galaxy Z Fold 8 Ultra review: the top dog of folding Androids
+double quotation markA timely warning on the rise of the ‘tech bros’ from the author of The Nerd Reich
 --------------------
-AI was supposed to destroy jobs. Where’s the carnage?
+Flock Safety tries to curb police abuse of its surveillance cameras after scandals
 --------------------
 <!-- AI NEWS END -->
 

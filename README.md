@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-OpenAI to pause some work on AI model Astra due to security concerns
+Secondhand booksellers in UK and Ireland suspect AI firms behind ‘strange’ bulk orders
 --------------------
-double quotation markA timely warning on the rise of the ‘tech bros’ from the author of The Nerd Reich
+double quotation markSmart glasses controversy sidelines the benefits for disabled people
 --------------------
-Flock Safety tries to curb police abuse of its surveillance cameras after scandals
+Samsung Galaxy Z Fold 8 Ultra review: the top dog of folding Androids
 --------------------
 <!-- AI NEWS END -->
 

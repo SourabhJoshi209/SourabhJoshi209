@@ -16,7 +16,7 @@ Secondhand booksellers in UK and Ireland suspect AI firms behind ‘strange’ b
 --------------------
 double quotation markSmart glasses controversy sidelines the benefits for disabled people
 --------------------
-Samsung Galaxy Z Fold 8 Ultra review: the top dog of folding Androids
+That one time Apple patented a pizza box
 --------------------
 <!-- AI NEWS END -->
 

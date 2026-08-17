@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Are Microsoft’s AI plans being held back by a shortage of chips?
+--------------------
 Secondhand booksellers in UK and Ireland suspect AI firms behind ‘strange’ bulk orders
 --------------------
-double quotation markSmart glasses controversy sidelines the benefits for disabled people
---------------------
-That one time Apple patented a pizza box
+AI was supposed to destroy jobs. Where’s the carnage?
 --------------------
 <!-- AI NEWS END -->
 

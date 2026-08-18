@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Are Microsoft’s AI plans being held back by a shortage of chips?
+US states take on Meta in pivotal trial over child social media addiction claims
 --------------------
-Secondhand booksellers in UK and Ireland suspect AI firms behind ‘strange’ bulk orders
+Claude to start watermarking AI-generated text – but will it make quality worse?
 --------------------
-AI was supposed to destroy jobs. Where’s the carnage?
+Dickovers, baggravation and botiquette: 18 new words to describe our tech hellscape
 --------------------
 <!-- AI NEWS END -->
 

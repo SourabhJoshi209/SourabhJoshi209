@@ -12,9 +12,9 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-US states take on Meta in pivotal trial over child social media addiction claims
+OpenAI announces slowing pace of development after hack by rogue agent
 --------------------
-Claude to start watermarking AI-generated text – but will it make quality worse?
+Social media on trial as $200bn case against Facebook and Instagram begins
 --------------------
 Dickovers, baggravation and botiquette: 18 new words to describe our tech hellscape
 --------------------

@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-OpenAI announces slowing pace of development after hack by rogue agent
+Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial
 --------------------
-Social media on trial as $200bn case against Facebook and Instagram begins
+Did someone wearing Meta Glasses film you today? Are you sure?
 --------------------
-Dickovers, baggravation and botiquette: 18 new words to describe our tech hellscape
+double quotation markZero stars for this endless rating game
 --------------------
 <!-- AI NEWS END -->
 

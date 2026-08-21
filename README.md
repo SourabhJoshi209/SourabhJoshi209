@@ -12,12 +12,7 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial
---------------------
-Did someone wearing Meta Glasses film you today? Are you sure?
---------------------
-double quotation markZero stars for this endless rating game
---------------------
+
 <!-- AI NEWS END -->
 
 

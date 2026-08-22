@@ -12,7 +12,12 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-
+‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs
+--------------------
+Dutch regulator fines Uber $966m for automating driver suspensions
+--------------------
+Tesla recalls nearly 3m vehicles in China over door handle safety risks
+--------------------
 <!-- AI NEWS END -->
 
 

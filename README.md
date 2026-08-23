@@ -12,11 +12,11 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs
+‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks
 --------------------
-Dutch regulator fines Uber $966m for automating driver suspensions
+Diamonds for sale: lab-grown gem auctions are all over TikTok right now, but some aren’t happy about it
 --------------------
-Tesla recalls nearly 3m vehicles in China over door handle safety risks
+Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial
 --------------------
 <!-- AI NEWS END -->
 

@@ -14,5 +14,5 @@ news_list = response.json()
 
 for article in news_list[:3]:
     print(f"{article['title']}")
-    print(f"Link: {article['url']}")
+    # print(f"Link: {article['url']}")
     print("-" * 20)

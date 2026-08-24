@@ -20,6 +20,8 @@ double quotation markIs there a pending AI ‘debt bomb’ crisis? No. This isn�
 --------------------
 <!-- AI NEWS END -->
 
+
+###
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SourabhJoshi209/SourabhJoshi209/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SourabhJoshi209/SourabhJoshi209/pacman-output/pacman-contribution-graph.svg?game=pacman">
@@ -27,7 +29,6 @@ double quotation markIs there a pending AI ‘debt bomb’ crisis? No. This isn�
 </picture>
 
 ###
-
 ###
 
 ## ✍️ Random Dev Quote

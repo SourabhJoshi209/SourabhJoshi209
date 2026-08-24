@@ -12,11 +12,14 @@ Data Engineer | 3.5+ years experience in building scalable data pipelines, ETL w
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Fairphone 6+ review: the most repairable, ethical phone gets faster
+Link: https://www.theguardian.com//technology/2026/aug/24/fairphone-6-review-the-most-repairable-ethical-phone-gets-faster
+--------------------
+double quotation markIs there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0
+Link: https://www.theguardian.com//technology/2026/aug/23/ai-debt-bomb-crisis
+--------------------
 ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks
---------------------
-Diamonds for sale: lab-grown gem auctions are all over TikTok right now, but some aren’t happy about it
---------------------
-Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial
+Link: https://www.theguardian.com//technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane
 --------------------
 <!-- AI NEWS END -->
 

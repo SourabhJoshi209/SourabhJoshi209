@@ -14,9 +14,9 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 <!-- AI NEWS START -->
 Fairphone 6+ review: the most repairable, ethical phone gets faster
 --------------------
-double quotation markIs there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0
+Tell us: do you think AI has made Google search better or worse?
 --------------------
-‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks
+double quotation markIs there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0
 --------------------
 <!-- AI NEWS END -->
 

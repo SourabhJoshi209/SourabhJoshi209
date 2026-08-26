@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Fairphone 6+ review: the most repairable, ethical phone gets faster
+Instagram CEO denies company hid low use of teen safety feature in Meta trial
 --------------------
-Tell us: do you think AI has made Google search better or worse?
+London rollout of robotaxis delayed amid lack of guidance for firms to follow
 --------------------
-double quotation markIs there a pending AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0
+double quotation markWhy the threat from the rampaging AI machine went ignored
 --------------------
 <!-- AI NEWS END -->
 

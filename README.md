@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Instagram CEO denies company hid low use of teen safety feature in Meta trial
+Cyborg cockroaches with tiny syringes designed to join search and rescue teams in major disasters
 --------------------
-London rollout of robotaxis delayed amid lack of guidance for firms to follow
+London neurosurgeons perform first successful AI-assisted operation to remove brain tumour
 --------------------
-double quotation markWhy the threat from the rampaging AI machine went ignored
+Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn
 --------------------
 <!-- AI NEWS END -->
 

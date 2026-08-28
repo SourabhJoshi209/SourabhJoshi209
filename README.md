@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Cyborg cockroaches with tiny syringes designed to join search and rescue teams in major disasters
+What could Meta’s US settlement mean around the world – and what now for other claims against firm?
 --------------------
-London neurosurgeons perform first successful AI-assisted operation to remove brain tumour
+‘The worst person you know’: the man who unwittingly became a meme
 --------------------
-Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn
+Wilem Frischmann obituary
 --------------------
 <!-- AI NEWS END -->
 

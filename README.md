@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Sharp rise in incidents of AI escaping users’ control, research finds
+--------------------
 What could Meta’s US settlement mean around the world – and what now for other claims against firm?
 --------------------
-‘The worst person you know’: the man who unwittingly became a meme
---------------------
-Wilem Frischmann obituary
+UK risks falling behind in AI race without faster telecoms upgrades, say executives
 --------------------
 <!-- AI NEWS END -->
 

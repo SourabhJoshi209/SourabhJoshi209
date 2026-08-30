@@ -16,7 +16,7 @@ Sharp rise in incidents of AI escaping users’ control, research finds
 --------------------
 What could Meta’s US settlement mean around the world – and what now for other claims against firm?
 --------------------
-UK risks falling behind in AI race without faster telecoms upgrades, say executives
+Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn
 --------------------
 <!-- AI NEWS END -->
 

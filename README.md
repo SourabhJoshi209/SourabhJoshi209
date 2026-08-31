@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Sharp rise in incidents of AI escaping users’ control, research finds
+Rise of Chicken Shop Date highlights how YouTube turned the tables on TV
 --------------------
-What could Meta’s US settlement mean around the world – and what now for other claims against firm?
+‘Superhuman’ AI tool spots heart disease in less than 2 seconds
 --------------------
-Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn
+Cisco probably violated Middle Eastern and Muslim employees’ civil rights, US agency finds
 --------------------
 <!-- AI NEWS END -->
 

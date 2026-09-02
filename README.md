@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘Superhuman’ AI tool spots heart disease in less than 2 seconds
+London rollout of robotaxis delayed amid lack of guidance for firms to follow
 --------------------
-Rise of Chicken Shop Date highlights how YouTube turned the tables on TV
+Dyson launches £420 toothbrush that films ‘live cleaning footage’ inside your mouth
 --------------------
-Conservatives split from Silicon Valley allies as datacenter backlash grows
+Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’
 --------------------
 <!-- AI NEWS END -->
 

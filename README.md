@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-London rollout of robotaxis delayed amid lack of guidance for firms to follow
+Women are giving their partners the ‘Illiterate Boyfriend’ test: ‘Do your best to pronounce these words’
 --------------------
-Dyson launches £420 toothbrush that films ‘live cleaning footage’ inside your mouth
+Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?
 --------------------
-Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’
+London’s first self-driving taxis for hire hit the streets
 --------------------
 <!-- AI NEWS END -->
 

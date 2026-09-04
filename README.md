@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+double quotation markIt’s time for Mark Zuckerberg to resign from Meta
+--------------------
 Women are giving their partners the ‘Illiterate Boyfriend’ test: ‘Do your best to pronounce these words’
 --------------------
 Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?
---------------------
-London’s first self-driving taxis for hire hit the streets
 --------------------
 <!-- AI NEWS END -->
 

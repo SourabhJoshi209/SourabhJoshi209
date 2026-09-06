@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI
+--------------------
+Online bookies accused of UK privacy breaches with use of cookie banners
+--------------------
 ‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?
---------------------
-double quotation markIn the picture and missing out
---------------------
-Women are giving their partners the ‘Illiterate Boyfriend’ test: ‘Do your best to pronounce these words’
 --------------------
 <!-- AI NEWS END -->
 

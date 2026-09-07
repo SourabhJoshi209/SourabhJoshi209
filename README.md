@@ -14,9 +14,9 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 <!-- AI NEWS START -->
 I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI
 --------------------
-Online bookies accused of UK privacy breaches with use of cookie banners
+Pixel 11 review: Google sets the bar for standard flagship phones
 --------------------
-‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?
+Uncanny and unappetizing: appetites spoil as AI images take over food menus
 --------------------
 <!-- AI NEWS END -->
 

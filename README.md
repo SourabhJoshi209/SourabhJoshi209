@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+US police fear Meta smart glasses could be used to secretly record them
+--------------------
 I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI
 --------------------
-Pixel 11 review: Google sets the bar for standard flagship phones
---------------------
-Uncanny and unappetizing: appetites spoil as AI images take over food menus
+Social media users could opt out of the algorithm if Australian government has its way – but that’s a big if
 --------------------
 <!-- AI NEWS END -->
 

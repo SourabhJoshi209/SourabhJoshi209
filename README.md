@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Apple expected to unveil folding iPhone as new CEO takes center stage
+Lawmakers blast AI companies after researcher warns of human extinction by 2030
 --------------------
-US police fear Meta smart glasses could be used to secretly record them
+Anthropic researchers say AI could cause human extinction by 2030
 --------------------
-I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI
+AI could kill all humans in next decade, warn experts: but how seriously should we take them?
 --------------------
 <!-- AI NEWS END -->
 

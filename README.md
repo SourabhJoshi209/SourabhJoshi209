@@ -12,9 +12,9 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Lawmakers blast AI companies after researcher warns of human extinction by 2030
+Anthropic details bad actors’ efforts to misuse its AI for bioweapons
 --------------------
-Anthropic researchers say AI could cause human extinction by 2030
+More Anthropic researchers warn of AI’s perils but Musk dismisses ‘psyop’
 --------------------
 AI could kill all humans in next decade, warn experts: but how seriously should we take them?
 --------------------

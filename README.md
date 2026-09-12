@@ -12,9 +12,9 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Anthropic details bad actors’ efforts to misuse its AI for bioweapons
+Can chatbots feel – or even dream? Meet the man leading the fight for AI rights
 --------------------
-More Anthropic researchers warn of AI’s perils but Musk dismisses ‘psyop’
+AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers
 --------------------
 AI could kill all humans in next decade, warn experts: but how seriously should we take them?
 --------------------

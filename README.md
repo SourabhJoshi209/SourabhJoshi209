@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Can chatbots feel – or even dream? Meet the man leading the fight for AI rights
+‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown
 --------------------
-AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers
+The AfD won a shock election in Germany. Elon Musk was thrilled
 --------------------
-AI could kill all humans in next decade, warn experts: but how seriously should we take them?
+AI will transform capitalism – but how?
 --------------------
 <!-- AI NEWS END -->
 

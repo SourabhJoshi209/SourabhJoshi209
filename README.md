@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown
+double quotation markI worked at Google DeepMind. You should listen to the warnings about AI
 --------------------
-The AfD won a shock election in Germany. Elon Musk was thrilled
+‘We’re not going to back down’: tiny Dorset B&B stands up to Airbnb’s legal bid to ‘monopolise’ letters ‘bnb’
 --------------------
-AI will transform capitalism – but how?
+Trump attacks ‘sick conspiracy’ against AI as tech stocks slide
 --------------------
 <!-- AI NEWS END -->
 

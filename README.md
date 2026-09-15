@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Trump facing AI backlash in Congress as push for guardrails intensifies
+--------------------
+The wilting rose emoji: what its rise and fall tells us about gen Alpha
+--------------------
 double quotation markI worked at Google DeepMind. You should listen to the warnings about AI
---------------------
-‘We’re not going to back down’: tiny Dorset B&B stands up to Airbnb’s legal bid to ‘monopolise’ letters ‘bnb’
---------------------
-Trump attacks ‘sick conspiracy’ against AI as tech stocks slide
 --------------------
 <!-- AI NEWS END -->
 

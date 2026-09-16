@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Trump facing AI backlash in Congress as push for guardrails intensifies
+‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 --------------------
-The wilting rose emoji: what its rise and fall tells us about gen Alpha
+Could AI really wipe out humanity – six experts spell out the risks
 --------------------
-double quotation markI worked at Google DeepMind. You should listen to the warnings about AI
+Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system
 --------------------
 Could AI really wipe out humanity – six experts spell out the risks
 --------------------
-Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition
+Albanese government considers ‘world-leading’ ban on smart glasses in public offices and buildings
 --------------------
 <!-- AI NEWS END -->
 

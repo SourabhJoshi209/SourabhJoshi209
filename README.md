@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system
+OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot
+--------------------
+Andrew Hastie says AI advised him to reply ‘congratulations!’ to man who planned to end life with assisted dying
 --------------------
 Could AI really wipe out humanity – six experts spell out the risks
---------------------
-Albanese government considers ‘world-leading’ ban on smart glasses in public offices and buildings
 --------------------
 <!-- AI NEWS END -->
 

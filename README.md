@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot
+Google says its Gemini AI model hacked three other companies
 --------------------
-Andrew Hastie says AI advised him to reply ‘congratulations!’ to man who planned to end life with assisted dying
+Uber ordered to pay $40m over death of woman ejected by driver on freeway
 --------------------
-Could AI really wipe out humanity – six experts spell out the risks
+China bogeyman looms large over American firms’ AI doomsday scenario
 --------------------
 <!-- AI NEWS END -->
 

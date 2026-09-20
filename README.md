@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Google says its Gemini AI model hacked three other companies
---------------------
 Uber ordered to pay $40m over death of woman ejected by driver on freeway
 --------------------
-China bogeyman looms large over American firms’ AI doomsday scenario
+Leave big tech behind! How to replace Amazon, Google, X, Meta, Apple – and more
+--------------------
+Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Uber ordered to pay $40m over death of woman ejected by driver on freeway
+Meta bans ads for Virginia Woolf play in Spain because they relate to feminism
 --------------------
-Leave big tech behind! How to replace Amazon, Google, X, Meta, Apple – and more
+Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030
 --------------------
-Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’
+Google fined more than €400m by Irish regulator over its use of location data
 --------------------
 <!-- AI NEWS END -->
 

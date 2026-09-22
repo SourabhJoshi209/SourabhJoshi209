@@ -14,9 +14,9 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 <!-- AI NEWS START -->
 Meta bans ads for Virginia Woolf play in Spain because they relate to feminism
 --------------------
-Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030
+British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting
 --------------------
-Google fined more than €400m by Irish regulator over its use of location data
+Using AI to ‘talk to animals’ might make us feel clever – but what, if anything, does it do for them?
 --------------------
 <!-- AI NEWS END -->
 

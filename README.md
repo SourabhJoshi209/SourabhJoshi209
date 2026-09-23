@@ -12,9 +12,9 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Meta bans ads for Virginia Woolf play in Spain because they relate to feminism
+New UK agency to fight ‘information warfare’ from likes of Russia, Burnham tells UN
 --------------------
-British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting
+Meta bans ads for Virginia Woolf play in Spain because they relate to feminism
 --------------------
 Using AI to ‘talk to animals’ might make us feel clever – but what, if anything, does it do for them?
 --------------------

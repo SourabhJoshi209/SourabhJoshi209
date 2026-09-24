@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-New UK agency to fight ‘information warfare’ from likes of Russia, Burnham tells UN
+Nick Clegg plays down fears ‘godlike’ AI could exterminate humanity
 --------------------
-Meta bans ads for Virginia Woolf play in Spain because they relate to feminism
+Meta debuts no-camera smart glasses and virtual reality spectacles
 --------------------
-Using AI to ‘talk to animals’ might make us feel clever – but what, if anything, does it do for them?
+‘I miss old Google’: readers tell us how they search the internet in the age of AI
 --------------------
 <!-- AI NEWS END -->
 

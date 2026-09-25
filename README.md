@@ -12,9 +12,9 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Nick Clegg plays down fears ‘godlike’ AI could exterminate humanity
+The comedians turning AI anxiety into punchlines: ‘It’s so good, it’ll completely alter our grasp on reality’
 --------------------
-Meta debuts no-camera smart glasses and virtual reality spectacles
+Launch of UK’s ‘largest AI supercomputer’ delayed by power supply problems
 --------------------
 ‘I miss old Google’: readers tell us how they search the internet in the age of AI
 --------------------

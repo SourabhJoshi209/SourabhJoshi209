@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-The comedians turning AI anxiety into punchlines: ‘It’s so good, it’ll completely alter our grasp on reality’
+Oxford lets OpenAI train its AI models on Bodleian Library
 --------------------
-Launch of UK’s ‘largest AI supercomputer’ delayed by power supply problems
+OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity
 --------------------
-‘I miss old Google’: readers tell us how they search the internet in the age of AI
+TikTok to pay Alabama $100m and limit teenage use in first state settlement
 --------------------
 <!-- AI NEWS END -->
 

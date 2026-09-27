@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Oxford lets OpenAI train its AI models on Bodleian Library
+Democracy blindsides Silicon Valley’s power players looking to transform the world with AI
+--------------------
+OpenAI halts training of latest models as reports mount of AI agents going rogue
 --------------------
 OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity
---------------------
-TikTok to pay Alabama $100m and limit teenage use in first state settlement
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Democracy blindsides Silicon Valley’s power players looking to transform the world with AI
+Teachers at Euan Blair firm report ‘horrendous stress’ after AI used to rate their work
 --------------------
-OpenAI halts training of latest models as reports mount of AI agents going rogue
+AI godfathers warn of runaway ‘intelligence explosion’
 --------------------
-OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity
+Nvidia unveils security platform to rein in AI agents and $150bn stock buyback
 --------------------
 <!-- AI NEWS END -->
 

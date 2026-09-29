@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Teachers at Euan Blair firm report ‘horrendous stress’ after AI used to rate their work
+Anthropic ‘warns of existential AI risks to humanity’ in IPO document
 --------------------
-AI godfathers warn of runaway ‘intelligence explosion’
+Trial of live facial recognition in London stations leads to a false positive and no arrests
 --------------------
-Nvidia unveils security platform to rein in AI agents and $150bn stock buyback
+Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house
 --------------------
 <!-- AI NEWS END -->
 

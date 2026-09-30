@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Anthropic ‘warns of existential AI risks to humanity’ in IPO document
+AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules
 --------------------
-Trial of live facial recognition in London stations leads to a false positive and no arrests
+A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see?
 --------------------
-Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house
+More than 44,000 file legal objections to Palantir NHS platform handling their data
 --------------------
 <!-- AI NEWS END -->
 

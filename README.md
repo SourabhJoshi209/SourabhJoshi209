@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules
+AI chatbots remove hijabs from images of Muslim women when prompted
 --------------------
-A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see?
+Pete Hegseth appoints Elon Musk to US taskforce on future of warfare
 --------------------
-More than 44,000 file legal objections to Palantir NHS platform handling their data
+Tech in cars can be used to snoop on you, Dutch spy chiefs warn
 --------------------
 <!-- AI NEWS END -->
 

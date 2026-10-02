@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-AI chatbots remove hijabs from images of Muslim women when prompted
+Recent lobbyist for Palantir had key role in helping Andy Burnham become PM
 --------------------
-Pete Hegseth appoints Elon Musk to US taskforce on future of warfare
+Kinky dating app Feeld’s founders share in record £3.8m dividend after sales jump
 --------------------
-Tech in cars can be used to snoop on you, Dutch spy chiefs warn
+OpenAI disclose another hack on government department in Australia
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Recent lobbyist for Palantir had key role in helping Andy Burnham become PM
+Peter Thiel revealed as secret buyer of Bel Air mansion that sold for $130m
 --------------------
-Kinky dating app Feeld’s founders share in record £3.8m dividend after sales jump
+OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day
 --------------------
-OpenAI disclose another hack on government department in Australia
+Could AI be conscious?
 --------------------
 <!-- AI NEWS END -->
 

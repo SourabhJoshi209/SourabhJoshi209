@@ -12,12 +12,7 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Peter Thiel revealed as secret buyer of Bel Air mansion that sold for $130m
---------------------
-OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day
---------------------
-Could AI be conscious?
---------------------
+
 <!-- AI NEWS END -->
 
 

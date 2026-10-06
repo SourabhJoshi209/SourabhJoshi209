@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Accept ‘bad things’ in return for benefits of AI, says Sam Altman
+Who owns ‘brain rot’?: inside the international legal drama over a beloved meme
 --------------------
 Apple iPhone 18 Pro review: big changes for small differences
 --------------------
-OpenAI safety leader quits, warning AI company’s culture is ‘broken’
+‘Pull the plug’: protesters resort to direct action against AI firms
 --------------------
 <!-- AI NEWS END -->
 

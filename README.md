@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Who owns ‘brain rot’?: inside the international legal drama over a beloved meme
+Google told to halt work on datacentres in Finland over environmental concerns
 --------------------
 Apple iPhone 18 Pro review: big changes for small differences
 --------------------
-‘Pull the plug’: protesters resort to direct action against AI firms
+Privacy watchdog launches investigation into China-based company behind Kmart ‘pervert glasses’ app
 --------------------
 <!-- AI NEWS END -->
 

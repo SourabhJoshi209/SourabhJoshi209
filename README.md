@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Google told to halt work on datacentres in Finland over environmental concerns
+‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance
 --------------------
-Apple iPhone 18 Pro review: big changes for small differences
+OpenAI’s release of mathematical findings draws concerns from experts
 --------------------
-Privacy watchdog launches investigation into China-based company behind Kmart ‘pervert glasses’ app
+‘Someone else will do it for less’: Refugees in Kenya are powering tech for dwindling pay
 --------------------
 <!-- AI NEWS END -->
 

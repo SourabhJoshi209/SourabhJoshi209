@@ -12,12 +12,7 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance
---------------------
-OpenAI’s release of mathematical findings draws concerns from experts
---------------------
-‘Someone else will do it for less’: Refugees in Kenya are powering tech for dwindling pay
---------------------
+
 <!-- AI NEWS END -->
 
 

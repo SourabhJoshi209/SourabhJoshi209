@@ -12,7 +12,12 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-
+UK must not be beholden to foreign AI, says head of Alan Turing Institute
+--------------------
+Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude
+--------------------
+OpenAI’s release of mathematical findings draws concerns from experts
+--------------------
 <!-- AI NEWS END -->
 
 

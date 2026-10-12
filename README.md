@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-UK must not be beholden to foreign AI, says head of Alan Turing Institute
+Is Wikipedia ‘deeply biased’? Sandi Toksvig says it is – so she’s backing a rival
 --------------------
-Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude
+Cyber-attack similar to OpenAI Medicare breach seems likely in UK, says minister
 --------------------
-OpenAI projected to bring in $20bn less in revenue than expected
+iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone
 --------------------
 <!-- AI NEWS END -->
 

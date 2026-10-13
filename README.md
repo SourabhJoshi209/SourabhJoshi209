@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Is Wikipedia ‘deeply biased’? Sandi Toksvig says it is – so she’s backing a rival
+double quotation markI’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI
 --------------------
-Cyber-attack similar to OpenAI Medicare breach seems likely in UK, says minister
+Companies rushed in on AI. Now some are pulling back
 --------------------
-iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone
+Employees all over the world find themselves monitored by AI at work
 --------------------
 <!-- AI NEWS END -->
 

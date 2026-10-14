@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-double quotation markI’m a pediatrician. Loss of human connection is the biggest threat to kids, not AI
+AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices
 --------------------
-Companies rushed in on AI. Now some are pulling back
+Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism
 --------------------
-Employees all over the world find themselves monitored by AI at work
+Saudi OpenAI employee arrested after recording device found in headquarters
 --------------------
 <!-- AI NEWS END -->
 

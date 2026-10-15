@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices
+Online ads weaponised to deliver ‘zero-click’ spyware, researchers say
 --------------------
-Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism
+The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster
 --------------------
-Saudi OpenAI employee arrested after recording device found in headquarters
+OpenAI’s London staff receive average of £2.3m per person annually
 --------------------
 <!-- AI NEWS END -->
 

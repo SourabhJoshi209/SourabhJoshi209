@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Elon Musk reveals ‘world’s first flying car’ at Tesla event
+--------------------
 Online ads weaponised to deliver ‘zero-click’ spyware, researchers say
 --------------------
-The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster
---------------------
-OpenAI’s London staff receive average of £2.3m per person annually
+Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story
 --------------------
 <!-- AI NEWS END -->
 

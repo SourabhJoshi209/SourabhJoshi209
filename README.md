@@ -14,9 +14,9 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 <!-- AI NEWS START -->
 Elon Musk reveals ‘world’s first flying car’ at Tesla event
 --------------------
-Online ads weaponised to deliver ‘zero-click’ spyware, researchers say
+Palantir patient data tech rejected by many NHS trusts in England
 --------------------
-Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story
+Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+World Bank says ‘small AI’ could transform developing countries
+--------------------
+Elon Musk agrees to settle lawsuits over 2024 election lottery
+--------------------
 Elon Musk reveals ‘world’s first flying car’ at Tesla event
---------------------
-Palantir patient data tech rejected by many NHS trusts in England
---------------------
-Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline
 --------------------
 <!-- AI NEWS END -->
 

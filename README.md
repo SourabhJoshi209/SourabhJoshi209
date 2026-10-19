@@ -12,9 +12,9 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-World Bank says ‘small AI’ could transform developing countries
+US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds
 --------------------
-Elon Musk agrees to settle lawsuits over 2024 election lottery
+AI firm Anthropic to commit 5% of shares to fund for ‘public good’
 --------------------
 Elon Musk reveals ‘world’s first flying car’ at Tesla event
 --------------------

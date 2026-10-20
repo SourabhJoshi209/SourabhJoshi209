@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+New AI tool can predict cancer survival by a single patient selfie, study suggests
+--------------------
+Googlebook review: Google’s new laptops are woefully underbaked
+--------------------
 US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds
---------------------
-AI firm Anthropic to commit 5% of shares to fund for ‘public good’
---------------------
-Elon Musk reveals ‘world’s first flying car’ at Tesla event
 --------------------
 <!-- AI NEWS END -->
 

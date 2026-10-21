@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages
+--------------------
+UK watchdogs urged to tackle suicide social media content after death of girl, 14
+--------------------
 New AI tool can predict cancer survival by a single patient selfie, study suggests
---------------------
-Googlebook review: Google’s new laptops are woefully underbaked
---------------------
-US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds
 --------------------
 <!-- AI NEWS END -->
 

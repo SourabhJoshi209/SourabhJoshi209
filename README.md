@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages
+Websites across world hit by millions of attempts to exploit PHP code flaw
 --------------------
-UK watchdogs urged to tackle suicide social media content after death of girl, 14
+Meta strikes deal with Zuckerberg to help him foot billionaire tax bill
 --------------------
-New AI tool can predict cancer survival by a single patient selfie, study suggests
+What is PHP, and how bad is the computer language flaw causing website shutdowns globally?
 --------------------
 <!-- AI NEWS END -->
 

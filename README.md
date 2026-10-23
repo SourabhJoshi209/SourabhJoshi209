@@ -14,9 +14,9 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 <!-- AI NEWS START -->
 Websites across world hit by millions of attempts to exploit PHP code flaw
 --------------------
-Meta strikes deal with Zuckerberg to help him foot billionaire tax bill
+Elon Musk reportedly invests $1bn in David Ellison’s Skydance
 --------------------
-What is PHP, and how bad is the computer language flaw causing website shutdowns globally?
+Apple Watch Ultra 4 review: longer battery life but still awaiting new features
 --------------------
 <!-- AI NEWS END -->
 

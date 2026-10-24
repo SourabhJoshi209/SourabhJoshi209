@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Websites across world hit by millions of attempts to exploit PHP code flaw
+The datacentre next door: on the frontline of tech’s latest David v Goliath battle
+--------------------
+‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking
 --------------------
 Elon Musk reportedly invests $1bn in David Ellison’s Skydance
---------------------
-Apple Watch Ultra 4 review: longer battery life but still awaiting new features
 --------------------
 <!-- AI NEWS END -->
 

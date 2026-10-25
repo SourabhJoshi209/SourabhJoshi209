@@ -14,9 +14,9 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 <!-- AI NEWS START -->
 The datacentre next door: on the frontline of tech’s latest David v Goliath battle
 --------------------
-‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking
+double quotation markWe are reclaiming real life after getting rid of Instagram
 --------------------
-Elon Musk reportedly invests $1bn in David Ellison’s Skydance
+‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking
 --------------------
 <!-- AI NEWS END -->
 

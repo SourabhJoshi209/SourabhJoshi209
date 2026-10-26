@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-The datacentre next door: on the frontline of tech’s latest David v Goliath battle
+Anthropic’s Claude AI model accessed Georgia voter data in US
 --------------------
-double quotation markWe are reclaiming real life after getting rid of Instagram
+Anthropic files for US stock market listing valued at more than $1.5tn
 --------------------
-‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking
+Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Anthropic’s Claude AI model accessed Georgia voter data in US
+‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film
 --------------------
-Anthropic files for US stock market listing valued at more than $1.5tn
+‘My social life completely plummeted’: gen Z is fighting back against big tech
 --------------------
-Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns
+Four takeaways from Anthropic’s potentially record-breaking stock market filing
 --------------------
 <!-- AI NEWS END -->
 

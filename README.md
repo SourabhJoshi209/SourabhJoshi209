@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film
---------------------
 ‘My social life completely plummeted’: gen Z is fighting back against big tech
 --------------------
-Four takeaways from Anthropic’s potentially record-breaking stock market filing
+Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts
+--------------------
+‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film
 --------------------
 <!-- AI NEWS END -->
 

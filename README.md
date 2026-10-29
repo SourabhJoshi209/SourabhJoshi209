@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘My social life completely plummeted’: gen Z is fighting back against big tech
+Computerized clairvoyance: psychics push back against AI-generated readings
 --------------------
-Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts
+What is it like to work when your co-workers are AI agents?
 --------------------
-‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film
+Nvidia CEO reportedly targeted by Chinese spy
 --------------------
 <!-- AI NEWS END -->
 

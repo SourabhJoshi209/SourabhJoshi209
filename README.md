@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Computerized clairvoyance: psychics push back against AI-generated readings
+Nvidia CEO reportedly targeted by an alleged Chinese spy
+--------------------
+Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show
 --------------------
 What is it like to work when your co-workers are AI agents?
---------------------
-Nvidia CEO reportedly targeted by Chinese spy
 --------------------
 <!-- AI NEWS END -->
 

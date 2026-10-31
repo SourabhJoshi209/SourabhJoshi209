@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Nvidia CEO reportedly targeted by an alleged Chinese spy
+‘Apologies for any confusion!’: how to write the perfect passive-aggressive email
 --------------------
-Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show
+Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports
 --------------------
-What is it like to work when your co-workers are AI agents?
+Ghost in the machine: how AI is haunting the search for the supernatural
 --------------------
 <!-- AI NEWS END -->
 

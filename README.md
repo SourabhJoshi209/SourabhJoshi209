@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘Apologies for any confusion!’: how to write the perfect passive-aggressive email
+Sadiq Khan calls for cap on numbers of robotaxis on London streets
 --------------------
 Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports
 --------------------
-Ghost in the machine: how AI is haunting the search for the supernatural
+‘Apologies for any confusion!’: how to write the perfect passive-aggressive email
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Sadiq Khan calls for cap on numbers of robotaxis on London streets
+Palantir AI tech unused or little used by 29 NHS trusts said to be benefiting from it
 --------------------
-Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports
+double quotation markSincerely devoted to email signoffs
 --------------------
-‘Apologies for any confusion!’: how to write the perfect passive-aggressive email
+double quotation markInstagram addicts and alcoholics have something in common
 --------------------
 <!-- AI NEWS END -->
 

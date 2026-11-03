@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Palantir AI tech unused or little used by 29 NHS trusts said to be benefiting from it
+Freezers of UK meat suppliers heat up after cyber-attacks in Europe
 --------------------
-double quotation markSincerely devoted to email signoffs
+Who is hacking Europe’s supermarket fridges and freezers, and why?
 --------------------
-double quotation markInstagram addicts and alcoholics have something in common
+‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search
 --------------------
 <!-- AI NEWS END -->
 

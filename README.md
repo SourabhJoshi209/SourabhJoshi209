@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Freezers of UK meat suppliers heat up after cyber-attacks in Europe
+UK to deploy facial recognition in biggest-ever immigration crackdown
+--------------------
+French blood banks hacked in latest cyber-attack on Europe
 --------------------
 Who is hacking Europe’s supermarket fridges and freezers, and why?
---------------------
-‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search
 --------------------
 <!-- AI NEWS END -->
 

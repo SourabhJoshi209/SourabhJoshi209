@@ -12,9 +12,9 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-UK to deploy facial recognition in biggest-ever immigration crackdown
+Tech barons cozied up to Trump. What will they do in newly blue America?
 --------------------
-French blood banks hacked in latest cyber-attack on Europe
+Elon Musk’s nearly half a billion dollars in midterms spending was a flop
 --------------------
 Who is hacking Europe’s supermarket fridges and freezers, and why?
 --------------------

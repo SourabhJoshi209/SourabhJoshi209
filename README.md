@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Tech barons cozied up to Trump. What will they do in newly blue America?
+Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook
 --------------------
-Elon Musk’s nearly half a billion dollars in midterms spending was a flop
+Fearing AI disruption, white-collar workers are quitting their jobs
 --------------------
-Who is hacking Europe’s supermarket fridges and freezers, and why?
+Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI
 --------------------
 <!-- AI NEWS END -->
 

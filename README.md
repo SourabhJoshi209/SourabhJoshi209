@@ -12,12 +12,7 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook
---------------------
-Fearing AI disruption, white-collar workers are quitting their jobs
---------------------
-Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI
---------------------
+
 <!-- AI NEWS END -->
 
 

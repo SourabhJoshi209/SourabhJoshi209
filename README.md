@@ -12,7 +12,12 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-
+‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints
+--------------------
+Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook
+--------------------
+Standing in the way of slop bowls: the woman blocking food delivery robots
+--------------------
 <!-- AI NEWS END -->
 
 

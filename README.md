@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints
+Who is Alice Huang, the woman linked to Nvidia’s CEO?
 --------------------
-Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook
+Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy
 --------------------
-Standing in the way of slop bowls: the woman blocking food delivery robots
+Why is Nvidia’s Jensen Huang at the centre of a US-China row?
 --------------------
 <!-- AI NEWS END -->
 

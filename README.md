@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Nvidia hires leading US law firm to investigate Jensen Huang’s relationship
+--------------------
+‘Flying cars’ could launch in China next summer, maker of two-seat model says
+--------------------
 Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy
---------------------
-Who is Alice Huang, the woman linked to Nvidia’s CEO?
---------------------
-Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Nvidia hires leading US law firm to investigate Jensen Huang’s relationship
+Jensen Huang resigns as Nvidia CEO after alleged affairs
 --------------------
-‘Flying cars’ could launch in China next summer, maker of two-seat model says
+LiveNvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live
 --------------------
-Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy
+From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Jensen Huang resigns as Nvidia CEO after alleged affairs
+LiveMicrosoft outage live: millions still affected as disruption stretches beyond 18 hours
 --------------------
-LiveNvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live
+A global Microsoft 365 outage has hit millions – what happened and when will it be fixed?
 --------------------
-From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang
+Nvidia scandal: Howard Lutnick under pressure over alleged lack of action
 --------------------
 <!-- AI NEWS END -->
 

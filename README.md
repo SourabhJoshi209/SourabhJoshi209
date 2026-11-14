@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-LiveMicrosoft outage live: millions still affected as disruption stretches beyond 18 hours
+Microsoft says services fully restored after global outage hits governments
 --------------------
-A global Microsoft 365 outage has hit millions – what happened and when will it be fixed?
+Microsoft ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened
 --------------------
-Nvidia scandal: Howard Lutnick under pressure over alleged lack of action
+A timeline of the affair scandal that sank Nvidia’s Jensen Huang
 --------------------
 <!-- AI NEWS END -->
 

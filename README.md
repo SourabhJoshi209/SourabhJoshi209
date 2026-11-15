@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Microsoft says services fully restored after global outage hits governments
+‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick
 --------------------
-Microsoft ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened
+Italy fines Meta $887m for accessing Android users’ photos and videos
 --------------------
-A timeline of the affair scandal that sank Nvidia’s Jensen Huang
+US university students tell surveillance cameras to Flock off
 --------------------
 <!-- AI NEWS END -->
 

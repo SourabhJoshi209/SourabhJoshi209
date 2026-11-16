@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick
+Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO
 --------------------
-Italy fines Meta $887m for accessing Android users’ photos and videos
+Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter
 --------------------
-US university students tell surveillance cameras to Flock off
+Apple MacBook Pro M6 review: probably the last of its generation
 --------------------
 <!-- AI NEWS END -->
 

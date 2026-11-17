@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO
+Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO
 --------------------
-Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter
+Anthropic IPO: how can I buy shares, and is it worth it?
 --------------------
-Apple MacBook Pro M6 review: probably the last of its generation
+Microsoft identifies months-old bug as a root cause of global outage
 --------------------
 <!-- AI NEWS END -->
 

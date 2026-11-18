@@ -12,12 +12,7 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO
---------------------
-Anthropic IPO: how can I buy shares, and is it worth it?
---------------------
-Microsoft identifies months-old bug as a root cause of global outage
---------------------
+
 <!-- AI NEWS END -->
 
 

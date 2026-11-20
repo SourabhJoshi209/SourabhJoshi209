@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans
+double quotation markAI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers
 --------------------
 Nvidia approaches Arm boss Rene Haas in search for new CEO
 --------------------
-Anthropic begins public trading at $2tn valuation after largest-ever IPO
+Who are Anthropic’s seven co-founders, now worth $180bn?
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-double quotation markAI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers
+‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions
 --------------------
-Nvidia approaches Arm boss Rene Haas in search for new CEO
+International talks on controlling use of autonomous weapons collapse
 --------------------
-Who are Anthropic’s seven co-founders, now worth $180bn?
+‘The doom of humanity’: will the quest to make robotic hands render us obsolete?
 --------------------
 <!-- AI NEWS END -->
 

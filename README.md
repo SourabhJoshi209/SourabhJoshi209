@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions
+Two groups verify mathematician’s claim that Claude helped prove mathematics problem
 --------------------
-International talks on controlling use of autonomous weapons collapse
+Hacks, AI and conspiracy theories: why are we having so many outages?
 --------------------
-‘The doom of humanity’: will the quest to make robotic hands render us obsolete?
+‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions
 --------------------
 <!-- AI NEWS END -->
 

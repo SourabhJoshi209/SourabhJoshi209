@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Two groups verify mathematician’s claim that Claude helped prove mathematics problem
+How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’
 --------------------
-Hacks, AI and conspiracy theories: why are we having so many outages?
+double quotation markNvidia’s humiliated board should resign out of embarrassment
 --------------------
-‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions
+Jensen Huang reinstated as Nvidia CEO after Trump intervenes
 --------------------
 <!-- AI NEWS END -->
 

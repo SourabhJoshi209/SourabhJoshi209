@@ -12,12 +12,7 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’
---------------------
-double quotation markNvidia’s humiliated board should resign out of embarrassment
---------------------
-Jensen Huang reinstated as Nvidia CEO after Trump intervenes
---------------------
+
 <!-- AI NEWS END -->
 
 

@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
+Elon Musk pledges to give two SpaceX shares to every child in the US
+--------------------
+A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet
+--------------------
 Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap
---------------------
-Schumer accuses Huang of violating US export control laws amid shipments of chips to China
---------------------
-‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation
 --------------------
 <!-- AI NEWS END -->
 

@@ -12,11 +12,11 @@ Data Engineer | 3.8+ years of experience in building scalable data pipelines, ET
 
 ## 🚀 Latest AI News
 <!-- AI NEWS START -->
-Elon Musk pledges to give two SpaceX shares to every child in the US
+Pizza history: AI agent’s cardless purchase is a first for UK
 --------------------
-A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet
+Hackers reportedly breach US air force’s flagship cloud computing platform
 --------------------
-Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap
+Meta whistleblower calls on Burnham to go further with ban on NDAs
 --------------------
 <!-- AI NEWS END -->
 
